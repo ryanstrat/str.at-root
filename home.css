@@ -1,0 +1,49 @@
+html {
+    font-family: "roboto", sans-serif;
+}
+
+header {
+    background-color: #777;
+    height: 2em;
+    color: #78c5fc;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #70cffc
+}
+
+.header {
+    height: 100%;
+    padding: .5em;
+}
+
+.header-quicklinks {
+    float:left;
+}
+
+.login {
+    float: right;
+}
+
+.icon-container {
+    position: relative;
+    max-width: 64rem;
+    top: 36vh;
+    margin: auto;
+}
+
+.icon {
+    height: 6rem;
+    width: 6rem;
+    margin: 1rem auto;
+    border-radius: .5rem;
+    text-align: center;
+    color: #fff;
+}
+
+#tv {
+    background-color: #aa15d6;
+    border: 4px solid hsl(286, 65%, 65%);
+}
